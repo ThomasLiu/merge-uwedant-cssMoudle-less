@@ -1,0 +1,29 @@
+{
+  "name": "u-webant-merge-less",
+  "version": "0.0.1",
+  "description": "A webpack plugin for u_webant less",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasLiu/u-webant-merge-less.git"
+  },
+  "keywords": [
+    "merge",
+    "less"
+  ],
+  "author": "Thomas Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThomasLiu/u-webant-merge-less/issues"
+  },
+  "homepage": "https://github.com/ThomasLiu/u-webant-merge-less#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "glob": "^7.1.2",
+    "postcss": "^6.0.23",
+    "postcss-less": "^2.0.0"
+  }
+}
